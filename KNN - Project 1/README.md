@@ -1,17 +1,42 @@
-# Project 1 KNN Implementation 
+# Project 1 KNN Implementation
 
-Data sets for the project:
+ **Project Task:**
+ 
+Implement classification experiments using KNN from first principles without the use of machine learning libraries. Implement KNN algorithms from scratch and the only permitted tools are libraries for simple linear algebra such as matrix multiplication/inversion.
 
-Part 1. Diabetes KNN classification training data
-1. https://www.kaggle.com/uciml/pima-indians-diabetes-database
+ 
+**Data sets for the project:**
 
-Part 2. MNist Digit classification training data
-2. https://www.kaggle.com/c/digit-recognizer/data
+  
+
+Dataset 1. Diabetes KNN classification training data
+
+- *https://www.kaggle.com/uciml/pima-indians-diabetes-database*
+
+  
+
+Dataset 2. MNist Digit classification training data
+
+- *https://www.kaggle.com/c/digit-recognizer/data*
+
+**Project libraries used**
+
+Numpy for vector operations
+Pandas for data management
+Seaborn/Matplotlib for graphing/visualization
+ 
+ ## Code and Implementation
+
+**Dataset 1: Pima Indians Diabetes KNN Classification**
+**Dataset 2: MNist Handwritten Digit KNN Classification**
+
+## Sources used
+
+Sklearn KNN libraries for validation:
+ https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+Hamidian, Sardar , Mehrabian,Armin. “Supervised Learning.” Lecture 1, The George Washington University, Fall 2022.
+
+Hamidian, Sardar , Mehrabian,Armin. “K Nearest Neighbors / Metrics.” Lecture 2, The George Washington University, Fall 2022.
 
 
-# Sources used 
-
-Numpy documentation: https://numpy.org/doc/stable/reference/generated/numpy.argpartition.html
-
-Euclidean Distance
-<a href='https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.'>
