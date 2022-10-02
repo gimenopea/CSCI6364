@@ -27,8 +27,9 @@ Seaborn/Matplotlib for graphing/visualization
  
  ## Code and Implementation
 
-**Dataset 1: Pima Indians Diabetes KNN Classification**
-**Dataset 2: MNist Handwritten Digit KNN Classification**
+**[Dataset 1: Pima Indians Diabetes KNN Classification](KNN%20-%20Project%201/KNN_Diabetes_Project1.ipynb)**
+
+**[Dataset 2: MNist Handwritten Digit KNN Classification](KNN%20-%20Project%201/MNIST_DataSet_KNN_Project1.ipynb)**
 
 ## Sources used
 
@@ -38,5 +39,3 @@ Sklearn KNN libraries for validation:
 Hamidian, Sardar , Mehrabian,Armin. “Supervised Learning.” Lecture 1, The George Washington University, Fall 2022.
 
 Hamidian, Sardar , Mehrabian,Armin. “K Nearest Neighbors / Metrics.” Lecture 2, The George Washington University, Fall 2022.
-
-
