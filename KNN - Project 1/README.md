@@ -27,9 +27,9 @@ Seaborn/Matplotlib for graphing/visualization
  
  ## Code and Implementation
 
-**[Dataset 1: Pima Indians Diabetes KNN Classification](KNN%20-%20Project%201/KNN_Diabetes_Project1.ipynb)**
+**[Dataset 1: Pima Indians Diabetes KNN Classification](https://github.com/gimenopea/CSCI6364/blob/4b015d5d0e1d0f09cd392d1fa85bea8627a4ce85/KNN%20-%20Project%201/KNN_Diabetes_Project1.ipynb)**
 
-**[Dataset 2: MNist Handwritten Digit KNN Classification](KNN%20-%20Project%201/MNIST_DataSet_KNN_Project1.ipynb)**
+**[Dataset 2: MNist Handwritten Digit KNN Classification](https://github.com/gimenopea/CSCI6364/blob/4b015d5d0e1d0f09cd392d1fa85bea8627a4ce85/KNN%20-%20Project%201/MNIST_DataSet_KNN_Project1.ipynb)**
 
 ## Sources used
 
